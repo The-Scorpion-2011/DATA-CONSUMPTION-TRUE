@@ -1,0 +1,1 @@
+This is a small project that I made it completely by myself , Its task is tell you how much the data that you chose it consumes from the RAM , Good luck with it and thanks for trying my project , but ... Never never never run it on your phone , you can only run it on your Computer , Laptop and Tablet . Good luck again !
